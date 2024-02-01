@@ -1,2 +1,2 @@
 # RNAGroovy
-Red Neuronal Escrita con Groovy
+Multipurpose Neural Network training made with Groovy
